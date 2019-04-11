@@ -5,3 +5,5 @@
 * thanos
 * pinguino
 * Doctor Doom
+* venom
+* octopus
