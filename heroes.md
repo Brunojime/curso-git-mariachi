@@ -8,4 +8,7 @@
 * Shazam
 * Cybort
 * spider-man
-* iro man
+* iron man
+* Heroe 1
+* Heroe 2
+* Heroe 3
